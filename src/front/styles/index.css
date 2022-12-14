@@ -1,3 +1,20 @@
 /* 
     General Styles used on every website (Don't Repeat Yourself)
 */
+
+.rounded-form {
+    border-radius: 50px;
+    /* background-color: #f9f9f9; */
+}
+
+.form-input {
+    background-color: #52b0e55c;
+}
+
+.margin-a {
+    margin-top: 9rem !important;
+}
+
+.form-input {
+    background-color: #e2e2e2;
+}
